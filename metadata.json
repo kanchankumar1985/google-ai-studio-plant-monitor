@@ -1,0 +1,6 @@
+{
+  "name": "Plant Sensor Dashboard & Monitor",
+  "description": "Comprehensive IoT plant monitoring system with ESP32 sensor telemetry, TimescaleDB time-series metrics, YOLOv8 person detection, VLM plant analysis, and live hardware control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
